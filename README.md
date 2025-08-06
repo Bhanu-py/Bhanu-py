@@ -1,3 +1,5 @@
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=bhanu-py&label=Profile%20views&color=0e75b6&style=flat" alt="bhanu-py" /> </p>
+
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2> Hi, I’m Bhanu Angam
 - 👀 I’m interested in NLP, Computer Vison and Image Processing
 - 🌱 I’m currently working on semantic matching engine based Recommender systems on sentence embeddings from transformers.
