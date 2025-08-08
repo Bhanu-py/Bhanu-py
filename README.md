@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 <h2>GitHub Stats</h2>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhanu-py&show_icons=true&theme=gotham" alt="bhanu-py" /> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanu-py&show_icons=true&theme=gotham" alt="bhanu-py" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhanu-py&show_icons=true&theme=gotham" alt="bhanu-py" /> <p align="center">
