@@ -1,4 +1,4 @@
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=bhanu-py&label=Profile%20views&color=0e75b6&style=flat" alt="bhanu-py" /> </p>
+<!-- <p align="left"> <img src= "https://komarev.com/ghpvc/?username=bhanu-py&label=Profile%20views&color=0e75b6&style=flat" alt="bhanu-py" /> </p>
 
 ---
 
@@ -90,4 +90,4 @@ Results-driven Data Scientist with deep expertise in Machine Learning, Natural L
 
 Professional references available upon request.
 
----
+--- -->
